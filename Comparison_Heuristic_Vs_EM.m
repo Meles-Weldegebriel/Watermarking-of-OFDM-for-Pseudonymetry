@@ -71,6 +71,6 @@ set(gca,'xlim',[-20, -5])
 xlabel('Eb/No [dB] at Passive RX')
 ylabel('P[Pseudonym Bit Error at Passive RX]')
 legend('10% Heuristic','10% EM','10% Ideal','20% Heuristic','20% EM','20% Ideal','30% Heuristic','30% EM','30% Ideal')
-%title('Simulation Vs Experimental Results')
+title('Comparison')
 
 
